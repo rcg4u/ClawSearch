@@ -1,6 +1,8 @@
+##
 This fork allows building the plugin with Visual Studio 2013.
 
 Original project link is [here](https://github.com/codecat/ClawSearch).
+##
 
 # ClawSearch
 
